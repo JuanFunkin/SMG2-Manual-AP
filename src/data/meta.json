@@ -1,0 +1,23 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.meta.schema.json",
+    "docs": {
+        "apworld_description": [
+            "Send-only Manual for Super Mario Galaxy 2 (Wii / Nintendo Switch).",
+            "Every galaxy you unlock and every Power Star (optionally Green Stars) you collect is a check that sends an item to another player.",
+            "You never receive any real item: nothing in Galaxy 2 is locked, so you simply play the game normally."
+        ],
+        "web": {
+            "theme": "ocean",
+            "tutorials": [
+                {
+                    "name": "Super Mario Galaxy 2 Manual Setup Guide",
+                    "description": "How to set up and play the send-only Super Mario Galaxy 2 Manual.",
+                    "language": "English",
+                    "file_name": "setup_en.md",
+                    "link": "setup/en",
+                    "authors": ["Super Mario Galaxy 2 Manual"]
+                }
+            ]
+        }
+    }
+}

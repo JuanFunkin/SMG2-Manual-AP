@@ -1,0 +1,1987 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.locations.schema.json",
+    "data": [
+        {
+            "name": "Sky Station Galaxy - Peewee Piranha's Temper Tantrum",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Sky Station Galaxy - Storming the Sky Fleet",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Sky Station Galaxy - Peewee Piranha's Speed Run",
+            "category": [
+                "World 1",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Sky Station Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Sky Station Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Sky Station Galaxy - Green Star 3",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Yoshi Star Galaxy",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Saddle Up with Yoshi",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Spiny Control",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Spiny Rainbow Romp",
+            "category": [
+                "World 1",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Yoshi Star Galaxy - Green Star 3",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Spin-Dig Galaxy",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Digga-Leg's Planet",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Silver Stars Down Deep",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Digga-Leg's Daredevil Run",
+            "category": [
+                "World 1",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Spin-Dig Galaxy - Green Star 3",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Fluffy Bluff Galaxy",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - Search for the Toad Brigade Captain",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - The Chimp's Stomp Challenge",
+            "category": [
+                "World 1",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - Every Planet Has Its Price",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Fluffy Bluff Galaxy - Green Star 3",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Rightside Down Galaxy",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Rightside Down Galaxy - Breaking the Laws of Gravity",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Rightside Down Galaxy - The Great Crate Incinerator",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Rightside Down Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Rightside Down Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser Jr.'s Fiery Flotilla",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fiery Flotilla - Gobblegut's Aching Belly",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fiery Flotilla - Fiery Flotilla Speed Run",
+            "category": [
+                "World 1",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fiery Flotilla - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fiery Flotilla - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Flip-Swap Galaxy",
+            "category": [
+                "World 1",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Flip-Swap Galaxy - Think Before You Shake",
+            "category": [
+                "World 1"
+            ]
+        },
+        {
+            "name": "Flip-Swap Galaxy - Purple Coin Flip 'n' Sprint",
+            "category": [
+                "World 1",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Flip-Swap Galaxy - Green Star 1",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Flip-Swap Galaxy - Green Star 2",
+            "category": [
+                "World 1",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Puzzle Plank Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - The Puzzling Picture Block",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - Purple Coin Shadow Vault",
+            "category": [
+                "World 2",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - Bugaboom's Back",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Puzzle Plank Galaxy - Green Star 3",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Hightail Falls Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Hot-Stepping Dash Pepper",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Hightail Falls Speed Run",
+            "category": [
+                "World 2",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Silver Stars in Hightail Falls",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Hightail Falls Galaxy - Green Star 3",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Boulder Bowl Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - Rock and Rollodillo",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - C'mere, Goomba",
+            "category": [
+                "World 2",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - Rolling Crabber Romp",
+            "category": [
+                "World 2",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Boulder Bowl Galaxy - Green Star 3",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Cosmic Cove Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Twin Falls Hideaway",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Exploring the Cosmic Cavern",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Catch That Star Bunny",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Cosmic Cove Galaxy - Green Star 3",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Wild Glide Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Wild Glide Galaxy - Fluzzard's First Flight",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Wild Glide Galaxy - Jungle Fluzzard Race",
+            "category": [
+                "World 2",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Wild Glide Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Wild Glide Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser's Lava Lair",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser's Lava Lair - Bowser's Big Lava Power Party",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Bowser's Lava Lair - Lava Lair Speed Run",
+            "category": [
+                "World 2",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Lava Lair - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Lava Lair - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Honeybloom Galaxy",
+            "category": [
+                "World 2",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Honeybloom Galaxy - Bumble Beginnings",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Honeybloom Galaxy - The Secret Wall Jump",
+            "category": [
+                "World 2"
+            ]
+        },
+        {
+            "name": "Honeybloom Galaxy - Green Star 1",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Honeybloom Galaxy - Green Star 2",
+            "category": [
+                "World 2",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Tall Trunk Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - The Flotacious Blimp Fruit",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - Tall Trunk's Big Slide",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - Tall Trunk's Purple Coin Slide",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Tall Trunk Galaxy - Green Star 3",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Cloudy Court Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - Head in the Clouds",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - The Shadow Lining",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - Silver Stars in the Purple Pond",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Cloudy Court Galaxy - Green Star 3",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Haunty Halls Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - A Glimmer of Bulb Berry",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - Sneaking Down the Creepy Corridor",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - Spooky Cosmic Clone Chase",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Haunty Halls Galaxy - Green Star 3",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Freezy Flake Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - Bowser on Ice",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - Sorbetti's Chilly Reception",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - The Chimp's Skating Challenge",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Freezy Flake Galaxy - Green Star 3",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Rolling Masterpiece Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Rolling Masterpiece Galaxy - Silver Chomp Grudge Match",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Rolling Masterpiece Galaxy - Masterpiece Speed Run",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Rolling Masterpiece Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Rolling Masterpiece Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser Jr.'s Fearsome Fleet",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fearsome Fleet - Bowser Jr.'s Mighty Megahammer",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fearsome Fleet - Megahammer's Daredevil Bash",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fearsome Fleet - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Fearsome Fleet - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Beat Block Galaxy",
+            "category": [
+                "World 3",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Beat Block Galaxy - Step to the Beep",
+            "category": [
+                "World 3"
+            ]
+        },
+        {
+            "name": "Beat Block Galaxy - Silver Stars in Double Time",
+            "category": [
+                "World 3",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Beat Block Galaxy - Green Star 1",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Beat Block Galaxy - Green Star 2",
+            "category": [
+                "World 3",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Supermassive Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - Huge Trouble with Big Wigglers",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - Big Wigglers Speed Run",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - In Full Bloom",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Supermassive Galaxy - Green Star 3",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Flipsville Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Flip-Flopping in Flipsville",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Flipsville's New Digs",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Purple Coin Spin Speed Run",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Flipsville Galaxy - Green Star 3",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Honeyhop Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Honeyhop Galaxy - The Sweetest Silver Stars",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Honeyhop Galaxy - The Chimp's Score Challenge",
+            "category": [
+                "World 4",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Honeyhop Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Honeyhop Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Starshine Beach Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Surf, Sand, and Silver Stars",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Climbing the Cloudy Tower",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Purple Coin Beach Dash",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Starshine Beach Galaxy - Green Star 3",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Chompworks Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Where the Chomps Are Made of Gold",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Spring into the Chompworks",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Cosmic Clones in the Chompworks",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Chompworks Galaxy - Green Star 3",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser's Gravity Gauntlet",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser's Gravity Gauntlet - Breaking into Bowser's Castle",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Bowser's Gravity Gauntlet - Gravity Star Speed Run",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Gravity Gauntlet - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Gravity Gauntlet - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Sweet Mystery Galaxy",
+            "category": [
+                "World 4",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Sweet Mystery Galaxy - Bulb Berry's Mysterious Glow",
+            "category": [
+                "World 4"
+            ]
+        },
+        {
+            "name": "Sweet Mystery Galaxy - Bulb Berry's Purple Coin Glow",
+            "category": [
+                "World 4",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Sweet Mystery Galaxy - Green Star 1",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Sweet Mystery Galaxy - Green Star 2",
+            "category": [
+                "World 4",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Space Storm Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - Follow Me, Bob-omb",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - To the Top of Topman's Tower",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - C'mere, Topman",
+            "category": [
+                "World 5",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Space Storm Galaxy - Green Star 3",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Slipsand Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Squizzard's Sandy Sinkhole",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Sailing the Sandy Seas",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Squizzard's Daredevil Run",
+            "category": [
+                "World 5",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Slipsand Galaxy - Green Star 3",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Shiverburn Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - Prince Pikante's Peppery Mood",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - Octo-Army Icy Rainbow Romp",
+            "category": [
+                "World 5",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - The Chimp's Ultimate Skating Challenge",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Shiverburn Galaxy - Green Star 3",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Boo Moon Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - Silver Stars Pop-Up",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - Haunting the Howling Tower",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - The Star in the Sinking Swamp",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Boo Moon Galaxy - Green Star 3",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Upside Dizzy Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Upside Dizzy Galaxy - A Walk on the Weird Side",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Upside Dizzy Galaxy - Burning Upside Dizzy",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Upside Dizzy Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Upside Dizzy Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser Jr.'s Boom Bunker",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Boom Bunker - Bowser Jr.'s Boomsday Machine",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Boom Bunker - Boomsday Machine Daredevil Run",
+            "category": [
+                "World 5",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Boom Bunker - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser Jr.'s Boom Bunker - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Fleet Glide Galaxy",
+            "category": [
+                "World 5",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Fleet Glide Galaxy - Fluzzard's Wild Battlefield Glide",
+            "category": [
+                "World 5"
+            ]
+        },
+        {
+            "name": "Fleet Glide Galaxy - Fastest Feathers in the Galaxy",
+            "category": [
+                "World 5",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Fleet Glide Galaxy - Green Star 1",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Fleet Glide Galaxy - Green Star 2",
+            "category": [
+                "World 5",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Melty Monster Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - The Magnificent Magma Sea",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - A Stroll Down Rolling Lane",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - The Chimp's Bowling Challenge",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Melty Monster Galaxy - Green Star 3",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Clockwork Ruins Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - Time for Adventure",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - The Adventure of the Purple Coins",
+            "category": [
+                "World 6",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - The Ledge Hammer Trap",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Clockwork Ruins Galaxy - Green Star 3",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Slimy Spring Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Slimy Spring Galaxy - The Deep Shell Well",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Slimy Spring Galaxy - The Chimp's Coin Challenge",
+            "category": [
+                "World 6",
+                "Mailtoad Letter Stars"
+            ]
+        },
+        {
+            "name": "Slimy Spring Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Slimy Spring Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Throwback Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Return of the Whomp King",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Silver Stars in the Whomp Fortress",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Whomp Silver Star Speed Run",
+            "category": [
+                "World 6",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Throwback Galaxy - Green Star 3",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Battle Belt Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Mini-Planet Mega-Run",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Mini-Planet Daredevil Run",
+            "category": [
+                "World 6",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Snacktime for Gobblegut",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Battle Belt Galaxy - Green Star 3",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Bowser's Galaxy Generator",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Bowser's Galaxy Generator - Bowser's Fortified Fortress",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Bowser's Galaxy Generator - Bowser's Big Bad Speed Run",
+            "category": [
+                "World 6",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Galaxy Generator - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Bowser's Galaxy Generator - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Flash Black Galaxy",
+            "category": [
+                "World 6",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Flash Black Galaxy - Jumping Around in the Dark",
+            "category": [
+                "World 6"
+            ]
+        },
+        {
+            "name": "Flash Black Galaxy - Dark Octo-Army Romp",
+            "category": [
+                "World 6",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Flash Black Galaxy - Green Star 1",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Flash Black Galaxy - Green Star 2",
+            "category": [
+                "World 6",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Mario Squared Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Mario Squared Galaxy - Make Mario a Star",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Mario Squared Galaxy - Luigi's Purple Coin Chaos",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Mario Squared Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Mario Squared Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Rolling Coaster Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Rolling Coaster Galaxy - The Rainbow Road Roll",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Rolling Coaster Galaxy - Purple Coins on the Rainbow Road",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Rolling Coaster Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Rolling Coaster Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Twisty Trials Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Twisty Trials Galaxy - Spinning and Spinning and Spinning",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Twisty Trials Galaxy - Turning Turning Double Time",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Twisty Trials Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Twisty Trials Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Stone Cyclone Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Stone Cyclone Galaxy - Silver Stars on the Cyclone",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Stone Cyclone Galaxy - Tox Box Speed Run",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Stone Cyclone Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Stone Cyclone Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Boss Blitz Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Boss Blitz Galaxy - Throwback Throwdown",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Boss Blitz Galaxy - Throwback Throwdown Speed Run",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Boss Blitz Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Boss Blitz Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Flip-Out Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks"
+            ]
+        },
+        {
+            "name": "Flip-Out Galaxy - Wicked Wall Jumps",
+            "category": [
+                "World S"
+            ]
+        },
+        {
+            "name": "Flip-Out Galaxy - Cosmic Clone Wall Jumpers",
+            "category": [
+                "World S",
+                "Prankster Comet Stars"
+            ]
+        },
+        {
+            "name": "Flip-Out Galaxy - Green Star 1",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Flip-Out Galaxy - Green Star 2",
+            "category": [
+                "World S",
+                "Green Stars"
+            ]
+        },
+        {
+            "name": "Unlock Grandmaster Galaxy",
+            "category": [
+                "World S",
+                "Galaxy Unlocks",
+                "Grandmaster Galaxy"
+            ]
+        },
+        {
+            "name": "Grandmaster Galaxy - The Ultimate Test",
+            "category": [
+                "World S",
+                "Grandmaster Galaxy"
+            ]
+        },
+        {
+            "name": "Grandmaster Galaxy - The Perfect Run",
+            "category": [
+                "World S",
+                "Prankster Comet Stars",
+                "Grandmaster Galaxy"
+            ]
+        },
+        {
+            "name": "Defeat Bowser",
+            "category": [
+                "Goals"
+            ],
+            "victory": true
+        },
+        {
+            "name": "Collect 120 Power Stars",
+            "category": [
+                "Goals"
+            ],
+            "victory": true
+        },
+        {
+            "name": "Collect 120 Power and 120 Green Stars",
+            "category": [
+                "Goals"
+            ],
+            "victory": true
+        },
+        {
+            "name": "Clear Grandmaster Galaxy",
+            "category": [
+                "Goals"
+            ],
+            "victory": true
+        }
+    ]
+}

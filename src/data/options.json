@@ -1,0 +1,49 @@
+{
+    "$schema": "https://raw.githubusercontent.com/ManualForArchipelago/Manual/main/schemas/Manual.options.schema.json",
+    "core": {
+        "goal": {
+            "display_name": "Goal",
+            "description": "What you have to do to finish your slot. Press the matching 'Goal' button in the Manual client when you do it."
+        },
+        "death_link": {
+            "default": false
+        }
+    },
+    "user": {
+        "include_galaxy_unlocks": {
+            "display_name": "Galaxy Unlock Checks",
+            "description": "A check is sent every time you unlock a new galaxy (Sky Station Galaxy is open from the start, so it has none).",
+            "type": "Toggle",
+            "default": true,
+            "group": "Checks"
+        },
+        "include_prankster_comet_stars": {
+            "display_name": "Prankster Comet Stars",
+            "description": "Include the Power Stars that only appear while a Prankster Comet is orbiting the galaxy (speed runs, daredevil runs, purple coin runs...).",
+            "type": "Toggle",
+            "default": true,
+            "group": "Checks"
+        },
+        "include_mailtoad_letter_stars": {
+            "display_name": "Mailtoad Letter Stars",
+            "description": "Include the Power Stars that only appear after the Mailtoad delivers a letter (The Chimp's challenges, C'mere Goomba/Topman, Jungle Fluzzard Race, Fastest Feathers in the Galaxy).",
+            "type": "Toggle",
+            "default": true,
+            "group": "Checks"
+        },
+        "include_green_stars": {
+            "display_name": "Green Stars",
+            "description": "Include the 120 Green Stars (needs the 120 Power Stars first). Forced on when the goal needs them.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Checks"
+        },
+        "include_grandmaster_galaxy": {
+            "display_name": "Grandmaster Galaxy",
+            "description": "Include the Grandmaster Galaxy checks (needs all 240 Power + Green Stars). Forced on when the goal is the Grandmaster Galaxy.",
+            "type": "Toggle",
+            "default": false,
+            "group": "Checks"
+        }
+    }
+}

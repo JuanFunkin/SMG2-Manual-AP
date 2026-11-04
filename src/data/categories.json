@@ -1,0 +1,60 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.categories.schema.json",
+    "World 1": {
+        "sort-key": "0"
+    },
+    "World 2": {
+        "sort-key": "1"
+    },
+    "World 3": {
+        "sort-key": "2"
+    },
+    "World 4": {
+        "sort-key": "3"
+    },
+    "World 5": {
+        "sort-key": "4"
+    },
+    "World 6": {
+        "sort-key": "5"
+    },
+    "World S": {
+        "sort-key": "6"
+    },
+    "Goals": {
+        "sort-key": "9"
+    },
+    "Filler": {
+        "hidden": true
+    },
+    "Galaxy Unlocks": {
+        "hidden": true,
+        "yaml_option": [
+            "include_galaxy_unlocks"
+        ]
+    },
+    "Prankster Comet Stars": {
+        "hidden": true,
+        "yaml_option": [
+            "include_prankster_comet_stars"
+        ]
+    },
+    "Mailtoad Letter Stars": {
+        "hidden": true,
+        "yaml_option": [
+            "include_mailtoad_letter_stars"
+        ]
+    },
+    "Green Stars": {
+        "hidden": true,
+        "yaml_option": [
+            "include_green_stars"
+        ]
+    },
+    "Grandmaster Galaxy": {
+        "hidden": true,
+        "yaml_option": [
+            "include_grandmaster_galaxy"
+        ]
+    }
+}

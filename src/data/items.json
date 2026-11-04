@@ -1,0 +1,13 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.items.schema.json",
+    "data": [
+        {
+            "name": "Nothing",
+            "count": 1,
+            "filler": true,
+            "category": [
+                "Filler"
+            ]
+        }
+    ]
+}

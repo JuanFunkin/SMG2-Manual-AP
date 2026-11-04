@@ -1,0 +1,59 @@
+# Super Mario Galaxy 2 - send-only Manual for Archipelago
+# Put your slot name below, choose a goal and the groups of checks you want, then hand the file to your host.
+
+name: YourName            # max 16 characters
+game: Manual_SuperMarioGalaxy2
+description: Super Mario Galaxy 2 (send-only Manual)
+
+requires:
+  version: 0.5.0          # minimum Archipelago version
+
+Manual_SuperMarioGalaxy2:
+  ################
+  # Game Options #
+  ################
+  progression_balancing: 50
+  accessibility: full
+
+  # What you have to do to finish your slot. When you do it, click the matching "Goal" button
+  # at the bottom of the Manual client.
+  #   defeat bowser                          -> beat Bowser in Bowser's Galaxy Generator (story ending)
+  #   collect 120 power stars
+  #   collect 120 power and 120 green stars  (turns Green Stars on automatically)
+  #   clear grandmaster galaxy               (turns Green Stars + Grandmaster Galaxy on automatically)
+  goal: defeat bowser
+
+  ##########
+  # Checks #
+  ##########
+  # A check every time a new galaxy is unlocked (47 checks; Sky Station Galaxy is open from the start).
+  include_galaxy_unlocks: true
+
+  # Stars that only appear while a Prankster Comet orbits the galaxy (speed runs, daredevil runs, purple coin runs...).
+  include_prankster_comet_stars: true
+
+  # Stars that only appear after the Mailtoad delivers a letter (7 stars: The Chimp's challenges, C'mere Goomba/Topman,
+  # Jungle Fluzzard Race, Fastest Feathers in the Galaxy).
+  include_mailtoad_letter_stars: true
+
+  # The 120 Green Stars (available after you have the 120 Power Stars). +120 checks.
+  include_green_stars: false
+
+  # Grandmaster Galaxy: unlock + The Ultimate Test + The Perfect Run (needs all 240 stars). +3 checks.
+  # "The Perfect Run" is a Prankster Comet star, so it also needs include_prankster_comet_stars.
+  include_grandmaster_galaxy: false
+
+  ###########################
+  # Item & Location Options #
+  ###########################
+  # This slot never receives real items, only "Nothing" filler. This line makes sure that filler is always
+  # placed in OTHER players' worlds, so every single check you send contains an item for someone else.
+  # (Remove it only if the rest of the multiworld has fewer locations than this slot has checks.)
+  non_local_items:
+    - Nothing
+
+  # Examples:
+  # exclude_locations:                  # these checks will only hold unimportant items
+  #   - Grandmaster Galaxy - The Perfect Run
+  # start_location_hints:
+  #   - Defeat Bowser

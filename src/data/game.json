@@ -1,0 +1,9 @@
+{
+    "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+    "game": "SuperMarioGalaxy2",
+    "creator": "",
+    "filler_item_name": "Nothing",
+    "death_link": false,
+    "starting_index": 1,
+    "unused_goals_are_locations": false
+}
